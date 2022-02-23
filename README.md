@@ -1,6 +1,18 @@
 # Вопросы - ответы к интервью на Automation QA Engineer
 
 + [ООП](#ООП) 
++ [Java Core](#java-core)
++ [Java Collections Framework](#java-collections)
++ [Java 8](#java-8)
++ [Design principles] (#design-principles)
++ [Git] (#git)
++ [TestNG] (#testng)
++ [Appium] (#appium)
++ [Jenkins] (#jenkins)
++ [Maven / Gradle] (#maven-gradle)
+
+
+
 
 ## ООП
 + [Что такое _ООП_?](oop.md#Что-такое-ООП)
